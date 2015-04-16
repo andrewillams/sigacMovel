@@ -1,0 +1,17 @@
+{
+    "attributes": {},
+    "elements": {
+        "ons-template": {},
+        "ons-navigator": {},
+        "ons-list-item": {},
+        "ons-page": {},
+        "ons-toolbar": {},
+        "ons-list": {},
+        "ons-icon": {},
+        "ons-tabbar": {},
+        "ons-col": {},
+        "ons-row": {},
+        "ons-tab": {},
+        "ons-back-button": {}
+    }
+}
